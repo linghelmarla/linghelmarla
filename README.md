@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/linghelmarla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linghelmarla&show_icons=false&theme=synthwave&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linghelmarla&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linghelmarla&layout=compact&langs_count=7&theme=synthwave"/>  
 
 
   ##
@@ -12,6 +12,9 @@
   <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/Java-pink?style=for-the-badge&logo=java&logoColor=purple">
     <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/MySQL-pink?style=for-the-badge&logo=MySQL&logoColor=purple">
      <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/spring-pink?style=for-the-badge&logo=spring&logoColor=purple">
+    <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/scrum-pink?style=for-the-badge&logo=scrum&logoColor=purple">
+    
+    
     
 ##
     
