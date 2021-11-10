@@ -9,11 +9,11 @@
   ##
    
    <div style="display: inline_block"><br>
-  <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/Java-pink?style=for-the-badge&logo=java&logoColor=purple">
-    <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/MySQL-pink?style=for-the-badge&logo=MySQL&logoColor=purple">
-     <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/spring-pink?style=for-the-badge&logo=spring&logoColor=purple">
-    <img align="center" alt="lin-J" height="70" width="200" src="https://img.shields.io/badge/scrum-pink?style=for-the-badge&logo=scrum&logoColor=purple">
-    
+  <img align="center" alt="lin-J" height="70" width="90" src="https://img.shields.io/badge/Java-pink?style=for-the-badge&logo=java&logoColor=purple">
+    <img align="center" alt="lin-J" height="70" width="90" src="https://img.shields.io/badge/MySQL-pink?style=for-the-badge&logo=MySQL&logoColor=purple">
+     <img align="center" alt="lin-J" height="70" width="90" src="https://img.shields.io/badge/springboot-pink?style=for-the-badge&logo=springboot&logoColor=purple">
+    <img align="center" alt="lin-J" height="70" width="90" src="https://img.shields.io/badge/scrum-pink?style=for-the-badge&logo=scrum&logoColor=purple">
+    <img align="center" alt="lin-J" height="70" width="90" src="https://img.shields.io/badge/security-pink?style=for-the-badge&logo=security&logoColor=purple">
     
     
 ##
